@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "imagedrawer.h": "c",
+        "notemanager.h": "c",
+        "cstdlib": "c",
+        "math.h": "c",
+        "string": "c"
+    }
+}
